@@ -1,4 +1,4 @@
-<h1 align="center">Paralla - Scroll Effect </h1>
+<h1 align="center">Parallax - Scroll Effect </h1>
 
 <br>
 
