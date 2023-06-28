@@ -1,22 +1,17 @@
-Parallax - Scroll Effect
+<h1 align="center">Paralla - Scroll Effect </h1>
 
-<div> 
+<br>
 
-<a href="https://gitlab.amazonasenergia.com/andre.carioca/energia-que-renova"> <img src="readme-img.jpeg" width="200" alt="preview-energia-que-renova"> 
+## 🚀 Tecnologias
 
-</div>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- HTML e CSS
+- JavaScript
+- Git e Github
 
-Sobre:
+## :memo: Licença
 
-Aplicação desenvolvida nas linguages: CSS, HTML e JavaScript
+Esse projeto está sob a licença MIT.
 
-
-Acesso ao sistema
-[Desenvolvimento]
-
-
-Veja mais sobre [git clone]: (https://github.com/git-guides/git-clone)
-
-Licença
-Todos os diretos reservados ao André Higino Carioca 🧑‍💻
+Projeto desenvolvido por André Higino Carioca 🧑‍💻 💚
